@@ -19,5 +19,5 @@ I detta projekt har två olika tillvägagångssätt använts för att transforme
 *   **Automatisk fellista:** Systemet flaggar automatiskt de största avvikelserna över tid, vilket sparar tid av manuellt letande i Excel-rader.
 
 ### Rapportvy (Power BI)
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](budget_vs_actual_dashboard.png)
 
