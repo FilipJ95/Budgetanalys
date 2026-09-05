@@ -16,7 +16,7 @@ I detta projekt har två olika tillvägagångssätt använts för att transforme
 
 *   ## 🏆 Resultat & Visualisering
 *   **Interaktiv Power BI-rapport:** All sammanställd data visualiseras nu i en tydlig dashboard,  vilket gör det enkelt att filtrera fram de avdelningar som har störst budgetavvikelser.
-*   **Automatisk fellista:** Systemet flaggar automatiskt de största avvikelserna över tid, vilket sparar massor av tid jämfört med manuellt letande i Excel-rader.
+*   **Automatisk fellista:** Systemet flaggar automatiskt de största avvikelserna, vilket sparar massor av tid jämfört med manuellt letande i Excel-rader.
 
 ### Rapportvy (Power BI)
 ![Power BI Dashboard](budget_vs_actual_dashboard.png)
